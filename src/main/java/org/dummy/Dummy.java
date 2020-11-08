@@ -4,7 +4,4 @@ public class Dummy {
     void bar() {
 
     }
-    void foo() {
-
-    }
 }
